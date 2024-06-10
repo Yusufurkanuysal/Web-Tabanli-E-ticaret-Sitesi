@@ -1,0 +1,34 @@
+body {
+    background-color: #ececec;
+}
+
+.kayit {
+    margin-left: 1000px;
+}
+
+.sepetim {
+    margin-left: 145px;
+}
+
+.gitar {
+    margin-left: 160px;
+    margin-top: 180px;
+}
+
+.sepeteekle {
+    width: 200px;
+}
+
+tfoot th {
+    padding: 20px;
+    background-color: #ececec;
+}
+
+table  {
+    box-shadow: 0 0 8px rgba(5, 5, 5,.3);
+}
+
+.baslik {
+    font-size: 31px;
+}
+
